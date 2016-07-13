@@ -1,0 +1,27 @@
+﻿  AbstractFile.cpp
+  Generating Code...
+  Compiling...
+  TextFile.cpp
+  SymLink.cpp
+  Main.cpp
+  FileSystem.cpp
+c:\onedrive\uni\c++\file system\file system\filesystem.cpp(16): warning C4018: '<=': signed/unsigned mismatch
+c:\onedrive\uni\c++\file system\file system\filesystem.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\onedrive\uni\c++\file system\file system\filesystem.cpp(56): warning C4018: '<=': signed/unsigned mismatch
+  Directory.cpp
+c:\onedrive\uni\c++\file system\file system\directory.cpp(31): warning C4101: 'temp': unreferenced local variable
+c:\onedrive\uni\c++\file system\file system\directory.cpp(71): warning C4018: '<=': signed/unsigned mismatch
+c:\onedrive\uni\c++\file system\file system\directory.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  CommandPrompt.cpp
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(129): warning C4018: '<=': signed/unsigned mismatch
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(200): warning C4018: '<': signed/unsigned mismatch
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(231): warning C4101: 'pos': unreferenced local variable
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(262): warning C4018: '<=': signed/unsigned mismatch
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(326): warning C4018: '<': signed/unsigned mismatch
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(383): warning C4018: '<=': signed/unsigned mismatch
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(412): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  File System.vcxproj -> C:\OneDrive\Uni\C++\File System\Debug\File System.exe
+  File System.vcxproj -> C:\OneDrive\Uni\C++\File System\Debug\File System.pdb (Partial PDB)

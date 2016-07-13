@@ -1,0 +1,9 @@
+﻿  CommandPrompt.cpp
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(254): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(259): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(449): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(454): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(465): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\onedrive\uni\c++\file system\file system\commandprompt.cpp(469): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  File System.vcxproj -> C:\OneDrive\Uni\C++\File System\x64\Debug\File System.exe
+  File System.vcxproj -> C:\OneDrive\Uni\C++\File System\x64\Debug\File System.pdb (Partial PDB)

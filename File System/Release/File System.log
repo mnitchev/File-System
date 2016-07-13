@@ -1,0 +1,27 @@
+﻿  AbstractFile.cpp
+  CommandPrompt.cpp
+CommandPrompt.cpp(24): warning C4018: '<': signed/unsigned mismatch
+CommandPrompt.cpp(128): warning C4018: '<=': signed/unsigned mismatch
+CommandPrompt.cpp(134): warning C4018: '<': signed/unsigned mismatch
+CommandPrompt.cpp(199): warning C4018: '<': signed/unsigned mismatch
+CommandPrompt.cpp(230): warning C4101: 'pos': unreferenced local variable
+CommandPrompt.cpp(261): warning C4018: '<=': signed/unsigned mismatch
+CommandPrompt.cpp(318): warning C4018: '<': signed/unsigned mismatch
+CommandPrompt.cpp(373): warning C4018: '<=': signed/unsigned mismatch
+CommandPrompt.cpp(399): warning C4018: '<=': signed/unsigned mismatch
+  Directory.cpp
+Directory.cpp(27): warning C4101: 'temp': unreferenced local variable
+Directory.cpp(60): warning C4018: '<=': signed/unsigned mismatch
+Directory.cpp(105): warning C4018: '<': signed/unsigned mismatch
+  FileSystem.cpp
+FileSystem.cpp(16): warning C4018: '<=': signed/unsigned mismatch
+FileSystem.cpp(32): warning C4018: '<': signed/unsigned mismatch
+FileSystem.cpp(51): warning C4018: '<=': signed/unsigned mismatch
+  Main.cpp
+  SymLink.cpp
+  TextFile.cpp
+  Generating code
+  All 602 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  File System.vcxproj -> D:\OneDrive\Uni\C++\File System\Release\File System.exe
+  File System.vcxproj -> D:\OneDrive\Uni\C++\File System\Release\File System.pdb (Full PDB)
